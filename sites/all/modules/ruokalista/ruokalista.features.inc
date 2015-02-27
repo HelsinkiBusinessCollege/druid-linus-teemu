@@ -12,9 +12,9 @@ function ruokalista_node_info() {
     'ruokalista' => array(
       'name' => t('Ruokalista'),
       'base' => 'node_content',
-      'description' => '',
+      'description' => t('Uusi ruokalista'),
       'has_title' => '1',
-      'title_label' => t('Title'),
+      'title_label' => t('Otsikko'),
       'help' => '',
     ),
   );
