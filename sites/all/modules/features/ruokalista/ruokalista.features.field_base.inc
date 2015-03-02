@@ -61,6 +61,7 @@ function ruokalista_field_default_field_bases() {
         'second' => 0,
         'year' => 'year',
       ),
+      'repeat' => 0,
       'timezone_db' => '',
       'todate' => '',
       'tz_handling' => 'none',
