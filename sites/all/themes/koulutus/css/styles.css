@@ -1,0 +1,29 @@
+body {
+	background-color: red;
+	margin:0;
+	padding: 0;
+}
+#header {
+	background-color: #ddd;
+	width:100%;
+	padding:1% 5% 2% 1%;
+}
+#logo {
+	float: left;
+	margin-right: 20px;
+	display:block;
+	width: 100px;
+}
+#logo>img{
+	width:100%
+}
+#name-and-slogan {
+	float:left;
+}
+#navigation {
+	float:left;
+}
+#main-menu>div>li>ul>a{
+	font-size: 500%;
+	text-decoration: none
+}
